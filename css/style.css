@@ -1,0 +1,39 @@
+body {
+ background-color: rgb(235, 243, 240);   
+}
+header,h2 {
+font-family: 'Lobster', sans-serif;
+}
+.title{
+    text-align: center;
+}
+section {
+    display: flex;
+    padding: 5px;
+}
+section h2 {
+ margin: 10px;   
+ width: 20vw;
+ border-right: 3px solid black;
+}
+section div {
+    width: 70vw;
+}
+ul {
+list-style-type: none;    
+}
+.row {
+    border: 1px solid black;
+}
+.row img {
+  width: 100%;  
+}
+#row2 {
+    display: flex;
+    justify-content: space-around;
+    background-image: url(assets\image-1.jpg);
+}
+#row2 img {
+ width: 40%; 
+ height:auto  
+}
