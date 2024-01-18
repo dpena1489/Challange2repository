@@ -5,7 +5,7 @@ Challenge 2 Professional Portfolio
 ## Links:
 
 ### Link to Deployed Application: 
-file:///C:/Users/dpena/bootcamp/challange2repo/index.html
+(https://dpena1489.github.io/challange2repo/)
 
 ### Link to GitHub Repository: 
 https://github.com/dpena1489/Challange2repository
