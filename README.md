@@ -10,6 +10,10 @@ Challenge 2 Professional Portfolio
 ### Link to GitHub Repository: 
 https://github.com/dpena1489/Challange2repository
 
+Screenshot of Profile
+![image](https://github.com/dpena1489/Challange2repository/assets/150938385/e96cd82b-c070-487f-9580-39afe3c11fd9)
+
+
 ## User Story:
 
 AS AN employer
